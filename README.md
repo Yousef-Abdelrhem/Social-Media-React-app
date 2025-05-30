@@ -1,5 +1,7 @@
 # Project Documentation: Social Media Posts Application
 
+https://github.com/user-attachments/assets/aab9bb12-9dbf-4b98-89fc-5f2bdea09838
+
 ## Overview
 
 This documentation provides an overview of the React-based social media posting application. The application allows users to create, read, update, and delete posts with images.
